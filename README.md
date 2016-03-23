@@ -14,6 +14,9 @@ Unity3D Enhanced Editor (by default Tenebrous Update)
 ## How to use?
 Just install the package unity in your project and enjoy.
 
+##	Follow
+[Trello](https://trello.com/b/vq7xiqnT)
+
 ## IMG
 
 ![preview1](https://github.com/lPinchol/UEditor-Up/blob/master/Resources/img/01.png)
